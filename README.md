@@ -26,3 +26,7 @@ Predicts the name of the food item from the image using a trained deep learning 
 Future Scope:
 
 Integration of volumetric segmentation techniques to estimate portion size and calorie content of the food, enabling more accurate dietary tracking.
+
+
+
+To run:  streamlit Final_App.py    "Run this command in command prompt in the project environment"
